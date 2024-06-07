@@ -1,3 +1,6 @@
 /Users/denzl/CLionProjects/exam_op/exam_task/cmake-build-debug/CMakeFiles/exam_task.dir
 /Users/denzl/CLionProjects/exam_op/exam_task/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/denzl/CLionProjects/exam_op/exam_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/denzl/CLionProjects/exam_op/exam_task/cmake-build-debug/tests/CMakeFiles/tests.dir
+/Users/denzl/CLionProjects/exam_op/exam_task/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/Users/denzl/CLionProjects/exam_op/exam_task/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir

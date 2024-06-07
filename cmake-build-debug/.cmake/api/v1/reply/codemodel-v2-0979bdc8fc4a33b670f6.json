@@ -6,6 +6,10 @@
 			[
 				{
 					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
@@ -17,6 +21,21 @@
 					[
 						0
 					]
+				},
+				{
+					"build" : "tests",
+					"jsonFile" : "directory-tests-Debug-b01f6abb0ab61427ef3b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests",
+					"targetIndexes" : 
+					[
+						1
+					]
 				}
 			],
 			"name" : "Debug",
@@ -25,12 +44,14 @@
 				{
 					"directoryIndexes" : 
 					[
-						0
+						0,
+						1
 					],
 					"name" : "exam_task",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -39,8 +60,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "exam_task::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-exam_task-Debug-3130d8abbc83625eab2c.json",
+					"jsonFile" : "target-exam_task-Debug-5fbe0333ba6dc3b5f4cf.json",
 					"name" : "exam_task",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tests::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-tests-Debug-28e2ce8182276e547c29.json",
+					"name" : "tests",
 					"projectIndex" : 0
 				}
 			]
