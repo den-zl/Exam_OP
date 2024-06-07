@@ -1,0 +1,3 @@
+/Users/denzl/CLionProjects/exam_op/exam_task/cmake-build-debug/CMakeFiles/exam_task.dir
+/Users/denzl/CLionProjects/exam_op/exam_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/denzl/CLionProjects/exam_op/exam_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
